@@ -14,7 +14,8 @@ public class Examen1_12141307 {
         int x = 0;
         int y = 0; 
         int año = 0;
-        capacidad, servo_motores, llantas, velocidad = 0;
+        int capacidad = 0;
+        servo_motores, llantas, velocidad = 0;
         boolean carga;
         double peso = 0;
         double altura = 0.0;
